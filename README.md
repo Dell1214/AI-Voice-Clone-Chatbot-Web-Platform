@@ -16,3 +16,5 @@ AI Models: Hugging Face Transformers, TTS (Text-to-Speech) Models
 Hosting: GitHub Pages, Hugging Face Spaces, Google Colab, Google sites
 
 Version Control: Git & GitHub, Google sites.
+>> See complete project below:
+>> https://www.thenajafigroup.online/
