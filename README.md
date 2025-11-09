@@ -10,7 +10,7 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Python
 
-AI Models: Hugging Face Transformers, TTS (Text-to-Speech) Models
+AI Models: Hugging Face Transformers
 
 Hosting: GitHub Pages, Hugging Face Spaces, Google Colab, Google sites
 
