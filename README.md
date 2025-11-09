@@ -1,10 +1,9 @@
 Project Title:
-AI Voice Clone & Chatbot Web Platform
+ChatBot assistant
 
 Project Brief :
 
-The proposed project is a web-based platform that integrates advanced AI capabilities for personalized communication. It includes two main features: (1) AI Voice Clone, which allows users to clone their voice through a Google Colab interface using pre-trained speech synthesis models, and (2) MujahidGPT, an AI chatbot built using Python and Hugging Face Spaces. The chatbot will be embedded on the website to allow real-time interaction. The project aims to demonstrate the integration of AI APIs, cloud-based model hosting, and web technologies for building intelligent and user-friendly applications.
-
+This project focuses on the development of "MujahidGPT," an advanced AI chatbot assistant. The primary goal is to create an intelligent, real-to-time conversational agent designed to help users manage their daily general tasks. The chatbot will be built using Python and deployed on Hugging Face Spaces. A key feature will be its integration into a web-based platform, allowing users to access and interact with the assistant seamlessly from a website.
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
